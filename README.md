@@ -1,16 +1,13 @@
-### Hi there 👋
+A result oriented self-taught fullstack javascript developer.
 
-<!--
-**mrwanashraf/mrwanashraf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passion for programming since ever started learning it.
 
-Here are some ideas to get you started:
+When working on something I make sure to do my best to deliver the expected output.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My curiosity leads me to understanding how things work internally.
+
+Always evolving and always learning, for me learning is a lifetime journey that I enjoy.
+
+Feeding on challenges, and problem solving is a part of my mentality.
+
+Believing that failure is a part of the recipe of being successful.
